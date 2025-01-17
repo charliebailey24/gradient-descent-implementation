@@ -20,15 +20,6 @@ This project provides a ground-up implementation of gradient descent from first 
 * Detailed explanation of learning rates and their impact
 * No dependencies on machine learning libraries for core algorithm
 
-## Technical Highlights
-
-The implementation includes:
-* Numerical approximation of partial derivatives
-* Vector gradient calculations
-* Configurable learning rate and convergence criteria
-* 3D visualization using Plotly
-* Pure Python computational methods
-
 ## Tools & Technologies
 
 Required dependencies:
@@ -40,6 +31,5 @@ plotly
 
 ## Future Improvements
 
-Potential enhancements could include:
 * Extend implementation of different optimization algorithms (Adam, RMSprop)
 * Add additional test functions and visualization options
