@@ -31,5 +31,5 @@ plotly
 
 ## Future Improvements
 
-* Extend implementation of different optimization algorithms (Adam, RMSprop)
+* Extend implementation to include different optimization algorithms (Adam, RMSprop)
 * Add additional test functions and visualization options
