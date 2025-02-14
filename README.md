@@ -20,15 +20,18 @@ This project provides a ground-up implementation of gradient descent from first 
 * Detailed explanation of learning rates and their impact
 * No dependencies on machine learning libraries for core algorithm
 
-## Future Improvements
-
-* Extend implementation to include different optimization algorithms (Adam, RMSprop)
-* Add additional test functions and visualization options
-
 ## Getting Setup to View Project
 
+For a quick view, you can check out the [optimization.pdf](optimization.pdf) doc. However, the project includes 3D renderings that are best viewed by running the full Jupyter Notebook.
+
 1. Clone down the repository
-2. `cd` into folder
+
+    `git clone https://github.com/charliebailey24/gradient-descent-implementation.git`
+
+2. Navigate into the project directory
+
+    `cd gradient-descent-implementation`
+
 3. Create and activate a virtual environment
 
     `python -m venv .venv`
@@ -39,6 +42,11 @@ This project provides a ground-up implementation of gradient descent from first 
 
     `pip install -r requirements.txt`
 
-5. Explore the notebook
+5. Launch Jupyter and open the notebook
 
-    `optimization.ipynb`
+    `jupyter notebook optimization.ipynb`
+
+## Future Improvements
+
+* Extend implementation to include different optimization algorithms (Adam, RMSprop)
+* Add additional test functions and visualization options
