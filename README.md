@@ -20,16 +20,25 @@ This project provides a ground-up implementation of gradient descent from first 
 * Detailed explanation of learning rates and their impact
 * No dependencies on machine learning libraries for core algorithm
 
-## Tools & Technologies
-
-Required dependencies:
-```python
-numpy
-matplotlib
-plotly
-```
-
 ## Future Improvements
 
 * Extend implementation to include different optimization algorithms (Adam, RMSprop)
 * Add additional test functions and visualization options
+
+## Getting Setup to View Project
+
+1. Clone down the repository
+2. `cd` into folder
+3. Create and activate a virtual environment
+
+    `python -m venv .venv`
+
+    `source venv/bin/activate`
+
+4. Install dependencies
+
+    `pip install -r requirements.txt`
+
+5. Explore the notebook
+
+    `optimization.ipynb`
