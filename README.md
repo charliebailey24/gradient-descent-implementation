@@ -24,6 +24,8 @@ This project provides a ground-up implementation of gradient descent from first 
 
 For a quick view, you can check out the [optimization.pdf](optimization.pdf) doc. However, the project includes 3D renderings that are best viewed by running the full Jupyter Notebook.
 
+### Instructions
+
 1. Clone down the repository
 
     `git clone https://github.com/charliebailey24/gradient-descent-implementation.git`
